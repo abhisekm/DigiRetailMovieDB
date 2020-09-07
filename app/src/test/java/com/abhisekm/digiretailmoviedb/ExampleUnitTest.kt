@@ -1,4 +1,4 @@
-package com.example.digiretailmoviedb
+package com.abhisekm.digiretailmoviedb
 
 import org.junit.Test
 
